@@ -1,0 +1,25 @@
+******All about my node project******
+___________________________________________________________________________________________
+
+(*) I am going to tell about all the node project that how can we make it......first of all i'm going to make one folder and give any name to it I gave it "new node" actually then, open it with code and check your node is installed or not for that go on terminal and type "node -v" and enter so that's how we can check it node is present or not okay.... Now after that we need to install or dowload the package.json for that to type in a terminal "npm init -y"and create the packages in file and I got this and after that I installed some dependencies or (packages)like Express is there and Nodemon is there and one more node-persist......
+
+About the modules, I used here:-
+==============================
+1) node-persist => node-persist is a Node.js module that provides a simple way to persist data locally. It allows us to store key-value pairs persistently on the disk, acting as a lightweight database for small-scale applications or scenarios where a full-fledged database might be unnecessary or too complex.
+
+2) express => Express is a popular web application framework for Node.js that simplifies the process of building web applications and APIs. It provides a robust set of features for creating powerful and scalable web applications with minimal effort.
+
+3) nodemon => nodemon is a utility that helps in the development of Node.js-based applications by automatically restarting the Node server when file changes are detected. This eliminates the need to manually stop and restart the server each time you make changes to your code.
+___________________________________________________________________________________________
+
+url address for each page :-  
+=========================
+1) all students => So, here i used the local host:5000.......... to find its data on browser need to type "localhost:5000/allstudents".
+
+2) students by id => Need to type "localhost:5000/student/:id".
+
+3) topper student => Need to type "localhost:5000/findToppers".
+
+now if you want to posr the data for that we can use url "localhost:5000/addStudent".
+___________________________________________________________________________________________
+
